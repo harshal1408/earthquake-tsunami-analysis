@@ -79,10 +79,9 @@ The exploratory analysis highlights patterns in seismic activity and tsunami gen
 
 ## Project Files
 - `earthquake_data_tsunami.csv` – Dataset  
-- `earthquake_tsunami_analysis.ipynb` – Jupyter Notebook  
-- `project_report.pdf` – Project report  
-- `README.md` – Project documentation  
-
+- `Global Earthquake-Tsunami Project.ipynb` – Jupyter Notebook  
+- `Earthquake_Tsunami_EDA_Report.pdf` – Project report  
+ 
 ---
 
 ## Author
